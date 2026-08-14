@@ -7,7 +7,7 @@ A water simulator game
 Download the file from releases OR Clone the releases:
 
 ```bash
-$ git clone
+$ git clone https://github.com/basilisezkid23/water-simulator
 ```
 
 and then install some libraries:
